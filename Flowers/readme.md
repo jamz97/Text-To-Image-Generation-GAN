@@ -1,5 +1,5 @@
 ## References
-[Generative Adversarial Text-to-Image Synthesis]([url](https://arxiv.org/abs/1605.05396))
+[Generative Adversarial Text-to-Image Synthesis](https://arxiv.org/abs/1605.05396)
 
 The code is adapted from [https://github.com/utsav-195/text-to-image-generator-gan]([url](https://github.com/utsav-195/text-to-image-generator-gan))
 
